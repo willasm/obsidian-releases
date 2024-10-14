@@ -13174,13 +13174,6 @@
         "repo": "SteelCompendium/draw-steel-elements"
     },
     {
-        "id": "visual-crossing-weather",
-        "name": "Visual Crossing Weather",
-        "author": "willasm",
-        "description": "Visual Crossing Weather API for Your Notes",
-        "repo": "willasm/vc-weather"
-    },
-    {
         "id": "highlight-active-folder-section",
         "name": "Highlight active folder section",
         "author": "Lukas Collier",
@@ -13508,5 +13501,12 @@
     "author": "Titus",
     "description": "World building toolset with OnlyWorlds integration.",
     "repo": "OnlyWorlds/obsidian-plugin"
+  },
+  {
+        "id": "visual-crossing-weather",
+        "name": "Visual Crossing Weather",
+        "author": "willasm",
+        "description": "Visual Crossing Weather API for Your Notes",
+        "repo": "willasm/vc-weather"
   }
 ]
