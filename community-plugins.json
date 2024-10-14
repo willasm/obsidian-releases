@@ -13180,6 +13180,7 @@
         "description": "Visual Crossing Weather API for Your Notes",
         "repo": "willasm/vc-weather"
     },
+    {
         "id": "highlight-active-folder-section",
         "name": "Highlight active folder section",
         "author": "Lukas Collier",
